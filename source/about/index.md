@@ -7,7 +7,7 @@ layout: "page"
     name  : "JarvisJin",
     from  : "Dianping.com",
     now   : "Wacai.com",
-    tags  : ["Java", "互联网", "开源", "理财", "常旅客计划", "信用卡", "IHG"],
+    tags  : ["Java", "互联网", "开源", "理财", "常旅客计划", "旅行机酒信用卡", "Hilton","IHG"],
     zhihu : "https://www.zhihu.com/people/jarvisjin",
     email : "imasking (_at_) hotmail.com",
     address   : "上海市杨高南路799号陆家嘴世纪金融广场3号楼",
