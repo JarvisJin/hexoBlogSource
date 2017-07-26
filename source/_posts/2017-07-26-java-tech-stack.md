@@ -1,7 +1,7 @@
 ---
 title: 给自己的Java技术栈
 date: 2017-07-26 13:36:58
-tags: [技术提升,Java]
+tags: [Java]
 categories: 技术提升
 ---
 
