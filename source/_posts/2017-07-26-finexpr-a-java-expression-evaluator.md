@@ -1,8 +1,8 @@
 ---
 title: 'FinExpr: 一个新造的Java实现的表达式计算轮子'
 date: 2017-07-26 20:19:57
-tags: [Java,FinExpr,开源]
-categories: Java
+tags: [FinExpr]
+categories: 我的开源
 ---
 
 
